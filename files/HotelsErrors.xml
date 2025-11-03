@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Hotel>
-	<Hotel Rating="4.4">
-		<Name>Canyon Ranch Tuscon</Name>
-		<Phone>+1-520-749-9655</Phone>
-		<Phone>+1-866-494-9279</Phone>
-		<Address NearestAirport="Tuscon International Airport">
-			<Number>8600</Number>
-			<Street>E Rockcliff Rd</Street>
-			<City>Tuscon</City>
-			<State>AZ</State>
-			<Zip>85750</Zip>
-		</Address>
-	</Hotel>
+  <Hotel Rating="4.4">
+	<Name>Canyon Ranch Tuscon</Name>
+	<Phone>+1-520-749-9655</Phone>
+	<Phone>+1-866-494-9279</Phone>
+	<Address NearestAirport="Tuscon International Airport">
+		<Number>8600</Number>
+		<Street>E Rockcliff Rd</Street>
+		<City>Tuscon</City>
+		<State>AZ</State>
+		<Zip>85750</Zip>
+	</Address>
+  </Hotel>
 	<Hotel>
 		<Name>Little Palm Island</Name>
 		<Phone>+1-888-413-0560</Phone>
@@ -49,7 +49,7 @@
 	</Hotel>
 	<Hotel>
 		<Name>Amangiri</Name>
-		<Phone>+1-435-675-4100</Phone>
+
 		<Phone>+1-833-654-2626</Phone>
 		<Address NearestAirport="Page Municipal Airport">
 			<Number>1</Number>
@@ -61,6 +61,7 @@
 	</Hotel>
 	<Hotel Rating="4.8">
 		<Name>Four Seasons Resort Hualalai</Name>
+		<Phone>+1-808-325-8000</Phone>
 		<Address NearestAirport="Kona International Airport">
 			<Number>72-100</Number>
 			<Street>Ka'upulehu Drive</Street>
@@ -78,6 +79,7 @@
 			<City>New York</City>
 			<State>NY</State>
 			<Zip>10001</Zip>
+		</Address>
 	</Hotel>
 	<Hotel Rating="4.7">
 		<Name>The Little Nell</Name>
@@ -88,7 +90,7 @@
 			<City>Aspen</City>
 			<State>CO</State>
 			<Zip>81611</Zip>
-		</Address>
+
 	</Hotel>
 	<Hotel>
 		<Name>The Beverly Hills Hotel</Name>
