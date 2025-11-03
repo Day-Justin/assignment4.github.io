@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel Rating="4.4">
+	<Name>Canyon Ranch Tuscon</Name>
+	<Phone>+1-520-749-9655</Phone>
+	<Phone>+1-866-494-9279</Phone>
+	<Address NearestAirport="Tuscon International Airport">
+		<Number>8600</Number>
+		<Street>E Rockcliff Rd</Street>
+		<City>Tuscon</City>
+		<State>AZ</State>
+		<Zip>85750</Zip>
+	</Address>
+  </Hotel>
+	<Hotel>
+		<Name>Little Palm Island</Name>
+		<Phone>+1-888-413-0560</Phone>
+		<Phone>+1-305-684-8341</Phone>
+		<Address NearestAirport="Florida Keys Marathon International Airport">
+			<Number>28500</Number>
+			<Street>Overseas Highway</Street>
+			<City>Little Torch Key</City>
+			<State>FL</State>
+			<Zip>33042</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>Kona Village</Name>
+		<Phone>+1-808-865-0100</Phone>
+		<Phone>+1-214-414-7506</Phone>
+		<Address NearestAirport="Kona International Airport">
+			<Number>72-300</Number>
+			<Street>Maheawalu Drive</Street>
+			<City>Kailua-Kona</City>
+			<State>HI</State>
+			<Zip>96740</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Sage Lodge</Name>
+		<Phone>+1-855-400-0505</Phone>
+		<Address NearestAirport="Bozeman Yellowstone International Airport">
+			<Number>55</Number>
+			<Street>Sage Lodge Drive</Street>
+			<City>Pray</City>
+			<State>MT</State>
+			<Zip>59065</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Amangiri</Name>
+		<Phone>+1-435-675-4100</Phone>
+		<Phone>+1-833-654-2626</Phone>
+		<Address NearestAirport="Page Municipal Airport">
+			<Number>1</Number>
+			<Street>Kayenta Rd</Street>
+			<City>Canyon Point</City>
+			<State>UT</State>
+			<Zip>84741</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.8">
+		<Name>Four Seasons Resort Hualalai</Name>
+		<Phone>+1-808-325-8000</Phone>
+		<Address NearestAirport="Kona International Airport">
+			<Number>72-100</Number>
+			<Street>Ka'upulehu Drive</Street>
+			<City>Kailua-Kona</City>
+			<State>HI</State>
+			<Zip>96740</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Ritz-Carlton New York, NoMad</Name>
+		<Phone>+1-212-404-8400</Phone>
+		<Address NearestAirport="LaGuardia Airport">
+			<Number>25</Number>
+			<Street>W 28th St</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<Zip>10001</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>The Little Nell</Name>
+		<Phone>+1-970-920-4600</Phone>
+		<Address NearestAirport="Aspen/Pitkin County Airport">
+			<Number>675</Number>
+			<Street>E Durant Ave</Street>
+			<City>Aspen</City>
+			<State>CO</State>
+			<Zip>81611</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Beverly Hills Hotel</Name>
+		<Phone>+1-424-421-0060</Phone>
+		<Phone>+1-855-350-0079</Phone>
+		<Address NearestAirport="Los Angeles International Airport">
+			<Number>9641</Number>
+			<Street>Sunset Boulevard</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.4">
+		<Name>Raffles Boston</Name>
+		<Phone>+1-617-351-8888</Phone>
+		<Phone>+1-855-955-6001</Phone>
+		<Address NearestAirport="Tuscon International Airport">
+			<Number>40</Number>
+			<Street>Trinity Pl</Street>
+			<City>Boston</City>
+			<State>MA</State>
+			<Zip>02116</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
